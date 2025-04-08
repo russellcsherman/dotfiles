@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Russell Sherman
+	email = 22265420+russellcsherman@users.noreply.github.com
+[push]
+	autoSetupRemote = true
+[core]
+	editor = vim
